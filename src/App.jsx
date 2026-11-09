@@ -8,6 +8,7 @@ import Recherche from './Recherche';
 function App() {
     return (
         <div>
+            <p>Projet React récupéré depuis GitHub</p> 
             <h1>Gestion des étudiants-test1</h1>
             <h1>Application de gestion des étudiants</h1> 
             <h2>Gestion des étudiants BTS DAI</h2> 
