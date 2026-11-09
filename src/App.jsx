@@ -3,12 +3,12 @@ import ListeEtudiants from './Components/ListeEtudiants';
 import Compteur from './Components/Compteur';
 import FormulaireEtudiant from './Components/FormulaireEtudiant';
 import GestionEtudiants from './Components/GestionEtudiants';
-
+import Recherche from './Recherche';
 
 function App() {
     return (
         <div>
-            <h1>Gestion des étudiants</h1>
+            <h1>Gestion des étudiants-test1</h1>
             <h1>Application de gestion des étudiants</h1> 
             <p>Bienvenue dans notre application React</p> 
             <button>Ajouter un étudiant</button> 
@@ -39,6 +39,7 @@ function App() {
             <Compteur />
             <FormulaireEtudiant />
             <GestionEtudiants />
+            <Recherche />
         </div>
     );
 }
