@@ -9,8 +9,9 @@ function App() {
     return (
         <div>
             <h1>Gestion des étudiants</h1>
+            <h1>Application de gestion des étudiants</h1> 
             <p>Bienvenue dans notre application React</p> 
-             <button>Ajouter un étudiant</button> 
+            <button>Ajouter un étudiant</button> 
             <h2>Informations des étudiants</h2>
 
             <Etudiant
